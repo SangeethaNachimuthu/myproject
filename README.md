@@ -13,3 +13,7 @@ git branch -M main == Change the current branch to main.
 git push -u origin main == Push the local repository commits to the remote repository on GitHub.
 git clone <url> == It clones the git repository to our local repository.
 git remote -v == To see which remote GitHub is connected.
+git branch == Displays the current branch name of the repository.
+git branch -a == Displays the all the branches of the repository.
+git pull == To fetch the latest changes from the remote to local.
+git checkout <branch name> == To change/switch to the specific branch.
