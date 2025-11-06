@@ -11,3 +11,5 @@ git restore <filename> == Discards the latest changes in the working directory.
 git remote add origin <url> == Connect local Git repository to a remote repository on GitHub.
 git branch -M main == Change the current branch to main.
 git push -u origin main == Push the local repository commits to the remote repository on GitHub.
+git clone <url> == It clones the git repository to our local repository.
+git remote -v == To see which remote GitHub is connected.
